@@ -28,8 +28,8 @@
 <!--<img src="https://spectrapackautomation.com/img/contactme.gif" /> -->
 ## 📫 How to Reach Me
 
-<!--[![Email](https://img.shields.io/badge/Email-sv4272019@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:mohanty.amlan1400@gmail.com) -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sonuverma1220-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amlanmohanty1/)
+<!--[![Email](https://img.shields.io/badge/Email-sv4272019@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:sv4272019gmail.com) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sonuverma1220-blue?style=flat&logo=linkedin)]
 
 
 
